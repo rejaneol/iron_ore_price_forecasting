@@ -13,7 +13,7 @@ The
 
 ## The project
 
-The project was developed in a Python Jupyter Notebook: [iron-ore-prices-forecasting.ipynb](https://github.com/rejaneol/iron_ore_price_forecasting)  
+The project was developed in a Python Jupyter Notebook: [iron-ore-prices-forecasting.ipynb](https://github.com/rejaneol/iron_ore_price_forecasting/blob/main/iron-ore-prices-forecasting.ipynb)  
 
 The **packages** and versions are listed below:  
 pandas==1.0.3  
