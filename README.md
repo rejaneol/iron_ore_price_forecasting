@@ -9,7 +9,7 @@ As the article from Visual Capitalist shows ([From Bust to Boom: Visualizing the
 Steel is one of the common materials and it is made of iron ore.  
 It is important to understand and try to to forecast the iron ore prices for both market and long-run capital investments planning purposes.
 
-#### The main findings are summarized in a blog post you can read [here](inserir link)
+#### The main findings are summarized in a blog post you can read [here](https://medium.com/@reol/iron-ore-prices-forecasting-a-time-series-approach-with-pmdarima-python-package-44bcdebb5951)
 
 ## The project
 
