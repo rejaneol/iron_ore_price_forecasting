@@ -9,11 +9,16 @@ As the article from Visual Capitalist shows ([From Bust to Boom: Visualizing the
 Steel is one of the common materials and it is made of iron ore.  
 It is important to understand and try to to forecast the iron ore prices for both market and long-run capital investments planning purposes.
 
-#### The main findings are summarized in a blog post you can read [here](https://medium.com/@reol/iron-ore-prices-forecasting-a-time-series-approach-with-pmdarima-python-package-44bcdebb5951)
+#### The main findings are summarized in a blog post you can read [here](https://medium.com/@reol/iron-ore-prices-forecasting-a-time-series-approach-with-pmdarima-python-package-44bcdebb5951).  
 
 ## The project
 
 The project was developed in a Python Jupyter Notebook: [iron-ore-prices-forecasting.ipynb](https://github.com/rejaneol/iron_ore_price_forecasting/blob/main/iron-ore-prices-forecasting.ipynb)  
+
+**Data Sources:**
+The data are collected from many sources like World Bank, OECD and Stock Exchange websites. The datasets are available under the fold [_data_](https://github.com/rejaneol/iron_ore_price_forecasting/tree/main/data).  
+
+There is no data preprocessing in this project.   
 
 The **packages** and versions are listed below:   
 matplotlib==2.2.2  
@@ -32,7 +37,7 @@ The project followed the structure below:
   - Modeling - tuning hyperparameters  
   - Cross-validation Modeling  
   - Final Model   
-- Persisting the final model
+- Persisting the final model   
 
 In the _Exploratory Data Analysis_ phase, we investigated:  
 1. The aspects of Iron Ore Prices historical data, both with autocorrelation and lag plots and stationarity statistical tests.    
